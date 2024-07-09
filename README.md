@@ -8,14 +8,16 @@ Simulate turn-based combat between two players using dice rolls to determine att
 
    UnZip the provided zip file and cd into it. 
 
+
 3. **Install Dependencies**:
+
    Execute the following command to install the dependencies:
 
-  ```bash
+   ```bash
    npm install
    ```
 
-5. **Run the Application**:
+4. **Run the Application**:
 
    Execute the following command to start the simulation:
 
@@ -25,7 +27,7 @@ Simulate turn-based combat between two players using dice rolls to determine att
 
    The game will simulate the combat between two players as per the provided rules. Each attack, defense, and resulting health changes will be displayed in the console.
 
-6. **Test the Application**:
+5. **Test the Application**:
 
    Execute the following command to test the application:
 
