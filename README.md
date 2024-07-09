@@ -11,9 +11,9 @@ Simulate turn-based combat between two players using dice rolls to determine att
 3. **Install Dependencies**:
    Execute the following command to install the dependencies:
 
-   '''bash
+  ```bash
    npm install
-   '''
+   ```
 
 5. **Run the Application**:
 
